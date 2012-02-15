@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btRecaptchaMailHide">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		
+		<field name="Email" type="X"></field>
+		
+		<field name="text" type="X"></field>
+
+	</table>
+</schema>
